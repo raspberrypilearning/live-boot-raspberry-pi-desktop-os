@@ -1,0 +1,11 @@
+title: live-boot-raspberry-pi-desktop-os
+hero_image: images/banner.png
+description: live-boot-raspberry-pi-desktop-os description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2018-09-04"
+steps:
+  - title: Introduction
+  - title: What you will need
+  - title: Step title
